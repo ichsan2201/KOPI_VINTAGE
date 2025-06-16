@@ -138,7 +138,7 @@ switch ($modul) {
         break;
 
     default:
-        echo " tidak ditemukan!";
+        echo " tidak ditemukan!, coba lagi!";
         break;
 }
 ?>
